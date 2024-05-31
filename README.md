@@ -1,8 +1,8 @@
-# React + Vite
+# Vite React Friend Toggler
+## This project is a simple Vite React application that showcases a list of user profiles. Each profile includes a name, profession, image, and a button to toggle the friendship status. Users can click the button to add or remove a friend.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+1.Display a list of user profiles with their name, profession, and image.
+2. Each profile has a button to toggle the friendship status.
+3. Button text and color change based on the friendship status.
+4. Utilizes React functional components and hooks.
